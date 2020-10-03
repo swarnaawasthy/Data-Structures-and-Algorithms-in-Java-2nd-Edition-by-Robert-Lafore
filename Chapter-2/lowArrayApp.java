@@ -62,6 +62,6 @@ class lowArrayApp {
 		for (j = 0; j < size; j++) {
 			System.out.print(arr.get(j) + " ");
 		}
-		System.out.println("");
+		System.out.println("*");
 	}
 }
