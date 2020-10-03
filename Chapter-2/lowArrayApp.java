@@ -24,7 +24,7 @@ class lowArrayApp {
 		arr = new LowArray(100);
 		int size = 0;
 		int j;
-		arr.set(0, 12);
+		arr.set(0, 33);
 		arr.set(1, 2819);
 		arr.set(2, 29);
 		arr.set(3, 315);
